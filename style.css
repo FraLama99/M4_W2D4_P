@@ -1,0 +1,7 @@
+.inCart {
+  background-color: #ffa764 !important;
+  transition: background-color 0.3s ease;
+}
+.toast-container {
+  z-index: 1050;
+}
